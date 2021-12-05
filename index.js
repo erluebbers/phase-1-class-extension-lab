@@ -1,1 +1,6 @@
-// Your code here
+class Polygon {
+  constructor ([]) {
+    get countSides() {
+    }
+  }
+}
